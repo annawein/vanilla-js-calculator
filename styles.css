@@ -34,6 +34,10 @@ body {
   background-color: white;
 }
 
+.calculator-grid > button:active {
+  background-color: rgb(244, 154, 199);
+}
+
 .span-two {
   grid-column: span 2;
 }
